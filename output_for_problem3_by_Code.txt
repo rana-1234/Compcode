@@ -1,0 +1,5 @@
+For Testcase #:1 2
+For Testcase #:2 2
+1
+For Testcase #:4 536870913
+For test case 4Correct Ans was 5
